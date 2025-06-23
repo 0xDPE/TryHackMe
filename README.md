@@ -33,7 +33,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☑      | [Google Dorking](https://tryhackme.com/room/googledorking)                    | Intro               |                                          |
 | ☑      | [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)        | Intro               |                                          |
 | ☑      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
-| ☐      | [Linux Fundamentals 1](https://tryhackme.com/room/linuxfundamentalspart1)     | Intro               |                                          |
+| ☑      | [Linux Fundamentals 1](https://tryhackme.com/room/linuxfundamentalspart1)     | Intro               |                                          |
 | ☐      | [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)     | Intro               |                                          |
 | ☐      | [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)       | Intro               |                                          |
 | ☐      | [Tmux](https://tryhackme.com/room/rptmux)                                     | Tooling             |                                          |
